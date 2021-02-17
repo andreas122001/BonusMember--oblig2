@@ -1,2 +1,2 @@
 # BonusMember--oblig2
-Oblig 2
+A simple program defining some of the logic of a bonus-member-register application
